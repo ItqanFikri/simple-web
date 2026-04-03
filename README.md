@@ -101,7 +101,6 @@ Possible enhancements:
 ## 👨‍💻 Author
 
 **Itqan Fikri**
-Frontend Developer
 
 GitHub:
 https://github.com/ItqanFikri
