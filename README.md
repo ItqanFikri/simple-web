@@ -97,10 +97,3 @@ Possible enhancements:
 * Deploy the website using GitHub Pages
 
 ---
-
-## 👨‍💻 Author
-
-**Itqan Fikri**
-
-GitHub:
-https://github.com/ItqanFikri
